@@ -1,3 +1,5 @@
+This program is made to predict Credit Card Fraud using Model Classification.
+
 This dataset offers a variety of attributes valuable for comprehensive analysis. It contains 555,719 instances and 22 attributes, a mix of categorical and numerical data types. Importantly, the dataset is complete with no null values. Here's a breakdown of the attributes:
 
 | Feature | Description |
@@ -24,3 +26,14 @@ This dataset offers a variety of attributes valuable for comprehensive analysis.
 | Merch_lat | Merchant's location (latitude). |
 | Merch_long | Merchant's location (longitude). |
 | Is_fraud | Fraudulent transaction indicator (1 = fraud, 0 = legitimate). This is the target variable for classification purposes.|
+
+# Model Result
+The model was able to correctly identify **85.17%** of the actual positive instances.
+
+# Business Insight
+
+This model can be used to improve fraud detection and prevention efforts. By accurately identifying fraudulent transactions, businesses can take action to prevent further losses and protect their customers. Additionally, the model can be used to identify patterns and trends in fraudulent behavior, which can help businesses to develop more effective fraud prevention strategies.
+
+Furthermore, the use of random data to generate predictions based on entered features suggests that the model is flexible and can be applied to a wide range of scenarios. This means that businesses can use the model to analyze data from different sources and make predictions about fraudulent behavior in real-time.
+
+Overall, the XGBoost model provides a valuable tool for businesses to improve their fraud detection and prevention efforts, and can help to reduce losses and protect customers. By accurately identifying fraudulent transactions and identifying patterns in fraudulent behavior, businesses can take proactive steps to prevent fraud and improve their overall security posture.
