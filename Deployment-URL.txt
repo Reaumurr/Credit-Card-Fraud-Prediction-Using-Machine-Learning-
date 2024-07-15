@@ -1,1 +1,1 @@
-https://huggingface.co/spaces/Reaumur/P1M2_Reski_Hidayat
+https://huggingface.co/spaces/Reaumur/Credit-Card-Fraud-Detection
