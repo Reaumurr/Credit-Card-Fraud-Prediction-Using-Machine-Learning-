@@ -39,3 +39,7 @@ This model can be used to improve fraud detection and prevention efforts. By acc
 Furthermore, the use of random data to generate predictions based on entered features suggests that the model is flexible and can be applied to a wide range of scenarios. This means that businesses can use the model to analyze data from different sources and make predictions about fraudulent behavior in real-time.
 
 Overall, the XGBoost model provides a valuable tool for businesses to improve their fraud detection and prevention efforts, and can help to reduce losses and protect customers. By accurately identifying fraudulent transactions and identifying patterns in fraudulent behavior, businesses can take proactive steps to prevent fraud and improve their overall security posture.
+
+# Deployment
+The application is deployed on Hugging Face Spaces. Access it using the following link:
+[StocKnock on Hugging Face](https://huggingface.co/spaces/Reaumur/Credit-Card-Fraud-Detection)
