@@ -42,4 +42,4 @@ Overall, the XGBoost model provides a valuable tool for businesses to improve th
 
 # Deployment
 The application is deployed on Hugging Face Spaces. Access it using the following link:
-[StocKnock on Hugging Face](https://huggingface.co/spaces/Reaumur/Credit-Card-Fraud-Detection)
+[Credit Card Fraud Detection on Hugging Face](https://huggingface.co/spaces/Reaumur/Credit-Card-Fraud-Detection)
